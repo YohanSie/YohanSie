@@ -18,10 +18,6 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<h3 align="center">
-  Fullstack Developer in Progress 🚀
-</h3>
-
 ---
 
 ## 👨‍💻 About Me
