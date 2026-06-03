@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img height="180" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
-
+   <img height="180" src="https://media.tenor.com/dHk-LfzHrtwAAAAC/programming-computer.gif" />
+   
 <br><br>
 
   <a href="https://www.linkedin.com/in/yohansie">
